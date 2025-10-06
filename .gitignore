@@ -208,5 +208,6 @@ __marimo__/
 
 data/midi_files/*.mid
 data/*.csv
+runs/*
 *.xlsx
 *.pkl
